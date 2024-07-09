@@ -6,7 +6,7 @@ public class Config {
 
 
     // 青龙后台地址，请修改
-    public static final String QL_URL = "qingl.vip.cpolar.cn";
+    public static final String QL_URL = "https://qingl.vip.cpolar.cn/";
 
     // 接口信息，请修改
     public static String QL_CLIENT_ID = "GynbEPML1b-Q";
